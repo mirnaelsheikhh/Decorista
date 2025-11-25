@@ -11,9 +11,4 @@ HTML / CSS
 Responsive Design 
 Animations 
 
-How to Run
-Clone this repo
-git clone git@github.com:mirnaelsheikhh/Decorista.git
-Open index.html in your browser
 
-Pretend you’re an award-winning interior designer 🏆
